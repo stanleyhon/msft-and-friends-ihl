@@ -1,4 +1,4 @@
-# msft-and-friends-ihl
+# MSFT DOTA 2 & FRIENDS IN HOUSE LEAGUE - SEASON 1
 Microsoft Dota 2 &amp; Friends In-House league
 
 This is the official home page of the MSFT & Friends dota 2 league.
