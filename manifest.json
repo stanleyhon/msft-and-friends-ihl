@@ -2,10 +2,10 @@
     "name": "Microsoft Dota 2 in-house league",
     "description": "The official app for the Microsoft Dota 2 in-house league",
     "short_name": "MSFT-IHL",
-    "start_url" : "/",
+    "start_url" : "./index.html",
     "icons": [
       {
-        "src": "msft-ihl-square.png",
+        "src": "./msft-and-friends-ihl/msft-ihl-square.png",
         "sizes": "512x512"
       }
     ],
