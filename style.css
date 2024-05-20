@@ -1,0 +1,13 @@
+h1 {
+    color:blue;
+    font-family:sans-serif;
+
+}
+
+a,p,h2 {
+    font-family:sans-serif;
+}
+
+.monospace {
+    font-family:"Courier New";
+}
