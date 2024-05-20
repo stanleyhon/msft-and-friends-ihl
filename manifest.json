@@ -5,7 +5,7 @@
     "start_url" : "./index.html",
     "icons": [
       {
-        "src": "./msft-and-friends-ihl/msft-ihl-square.png",
+        "src": "./msft-ihl-square.png",
         "sizes": "512x512"
       }
     ],
